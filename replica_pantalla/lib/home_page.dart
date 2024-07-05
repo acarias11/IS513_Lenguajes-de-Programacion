@@ -229,7 +229,7 @@ class HomePage extends StatelessWidget {
                                 ],
                                ),
                                Transform.translate(
-                                  offset: const Offset(215, -33,),
+                                  offset: const Offset(220, -35,),
                                   child:  IconButton(
                                     onPressed: () {}, 
                                     icon: const Icon(Icons.help_outline),
